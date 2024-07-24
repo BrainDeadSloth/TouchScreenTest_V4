@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Modular Walls
+* source:	https://sketchfab.com/3d-models/lowpoly-modular-walls-66ca17796f8c4e7aab497c8c16cee70a
+* author:	Daily Lowpoly (https://sketchfab.com/dailyfree3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Modular Walls" (https://sketchfab.com/3d-models/lowpoly-modular-walls-66ca17796f8c4e7aab497c8c16cee70a) by Daily Lowpoly (https://sketchfab.com/dailyfree3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
